@@ -1,0 +1,189 @@
+> java BlobDetection ../input/04_Circles.png -k 1 -r 0 -g 0 -b 255 -d 5 -o ../output/04_Circles_find_1_blue.png
+1/5
+Blob 1: 812 pixels
+- Saved result to ../output/04_Circles_find_1_blue.png
+
+> java BlobDetection ../input/04_Circles.png -k 5 -r 0 -g 0 -b 255 -d 5 -o ../output/04_Circles_find_5_blue.png
+5/5
+Blob 1: 812 pixels
+Blob 2: 376 pixels
+Blob 3: 304 pixels
+Blob 4: 82 pixels
+Blob 5: 80 pixels
+- Saved result to ../output/04_Circles_find_5_blue.png
+
+> java BlobDetection ../input/04_Circles.png -k 2 -r 255 -g 0 -b 0 -d 5 -o ../output/04_Circles_find_2_red.png
+2/9
+Blob 1: 448 pixels
+Blob 2: 283 pixels
+- Saved result to ../output/04_Circles_find_2_red.png
+
+> java BlobDetection ../input/04_Circles.png -k 1 -r 255 -g 0 -b 0 -d 5 -o ../output/04_Circles_find_1_red.png
+1/9
+Blob 1: 448 pixels
+- Saved result to ../output/04_Circles_find_1_red.png
+
+> java BlobDetection ../input/04_Circles.png -k 1 -r 0 -g 255 -b 0 -d 5 -o ../output/04_Circles_find_1_green.png
+1/6
+Blob 1: 583 pixels
+- Saved result to ../output/04_Circles_find_1_green.png
+
+> java BlobDetection ../input/04_Circles.png -k 100 -r 0 -g 255 -b 0 -d 5 -o ../output/04_Circles_find_100_green.png
+6/6
+Blob 1: 583 pixels
+Blob 2: 355 pixels
+Blob 3: 341 pixels
+Blob 4: 256 pixels
+Blob 5: 221 pixels
+Blob 6: 123 pixels
+- Saved result to ../output/04_Circles_find_100_green.png
+
+> java BlobDetection ../input/05_Spray.png -k 1 -r 255 -g 0 -b 0 -d 5 -o ../output/05_Spray_find_1_red.png
+1/590
+Blob 1: 291 pixels
+- Saved result to ../output/05_Spray_find_1_red.png
+
+> java BlobDetection ../input/06_Toyblocks.jpg -k 1 -r 50 -g 50 -b 220 -d 5 -o ../output/06_Toyblocks_find_1_blue.jpg
+1/19
+Blob 1: 3524 pixels
+- Saved result to ../output/06_Toyblocks_find_1_blue.png
+
+> java BlobDetection ../input/08_Lego_dublo_arto_alanenpaa_5.jpg -k 100 -r 255 -g 0 -b 0 -d 5 -o ../output/08_Lego_dublo_arto_alanenpaa_5_find_100_red.jpg
+100/572
+Blob 1: 324946 pixels
+Blob 2: 317218 pixels
+Blob 3: 142423 pixels
+Blob 4: 82765 pixels
+Blob 5: 28865 pixels
+Blob 6: 25090 pixels
+Blob 7: 14088 pixels
+Blob 8: 12405 pixels
+Blob 9: 10938 pixels
+Blob 10: 10679 pixels
+Blob 11: 9463 pixels
+Blob 12: 8474 pixels
+Blob 13: 6180 pixels
+Blob 14: 5419 pixels
+Blob 15: 4967 pixels
+Blob 16: 4925 pixels
+Blob 17: 4545 pixels
+Blob 18: 4394 pixels
+Blob 19: 4281 pixels
+Blob 20: 4240 pixels
+Blob 21: 4185 pixels
+Blob 22: 4053 pixels
+Blob 23: 3501 pixels
+Blob 24: 3425 pixels
+Blob 25: 3187 pixels
+Blob 26: 2540 pixels
+Blob 27: 2431 pixels
+Blob 28: 2381 pixels
+Blob 29: 1363 pixels
+Blob 30: 830 pixels
+Blob 31: 760 pixels
+Blob 32: 746 pixels
+Blob 33: 739 pixels
+Blob 34: 622 pixels
+Blob 35: 545 pixels
+Blob 36: 525 pixels
+Blob 37: 435 pixels
+Blob 38: 427 pixels
+Blob 39: 210 pixels
+Blob 40: 184 pixels
+Blob 41: 171 pixels
+Blob 42: 161 pixels
+Blob 43: 155 pixels
+Blob 44: 149 pixels
+Blob 45: 143 pixels
+Blob 46: 121 pixels
+Blob 47: 94 pixels
+Blob 48: 90 pixels
+Blob 49: 89 pixels
+Blob 50: 84 pixels
+Blob 51: 82 pixels
+Blob 52: 82 pixels
+Blob 53: 75 pixels
+Blob 54: 63 pixels
+Blob 55: 62 pixels
+Blob 56: 56 pixels
+Blob 57: 56 pixels
+Blob 58: 55 pixels
+Blob 59: 53 pixels
+Blob 60: 52 pixels
+Blob 61: 50 pixels
+Blob 62: 47 pixels
+Blob 63: 39 pixels
+Blob 64: 38 pixels
+Blob 65: 38 pixels
+Blob 66: 36 pixels
+Blob 67: 33 pixels
+Blob 68: 33 pixels
+Blob 69: 31 pixels
+Blob 70: 28 pixels
+Blob 71: 27 pixels
+Blob 72: 25 pixels
+Blob 73: 24 pixels
+Blob 74: 24 pixels
+Blob 75: 24 pixels
+Blob 76: 22 pixels
+Blob 77: 22 pixels
+Blob 78: 21 pixels
+Blob 79: 21 pixels
+Blob 80: 20 pixels
+Blob 81: 20 pixels
+Blob 82: 19 pixels
+Blob 83: 18 pixels
+Blob 84: 16 pixels
+Blob 85: 16 pixels
+Blob 86: 16 pixels
+Blob 87: 15 pixels
+Blob 88: 15 pixels
+Blob 89: 14 pixels
+Blob 90: 14 pixels
+Blob 91: 14 pixels
+Blob 92: 13 pixels
+Blob 93: 12 pixels
+Blob 94: 12 pixels
+Blob 95: 12 pixels
+Blob 96: 12 pixels
+Blob 97: 12 pixels
+Blob 98: 12 pixels
+Blob 99: 11 pixels
+Blob 100: 11 pixels
+- Saved result to ../output/08_Lego_dublo_arto_alanenpaa_5_find_100_red.png
+
+> java BlobDetection ../input/08_Lego_dublo_arto_alanenpaa_5.jpg -k 1 -r 255 -g 0 -b 0 -d 5 -o ../output/08_Lego_dublo_arto_alanenpaa_5_find_1_red.jpg
+1/572
+Blob 1: 324946 pixels
+- Saved result to ../output/08_Lego_dublo_arto_alanenpaa_5_find_1_red.png
+
+> java BlobDetection ../input/07_Lego_train_layout_at_National_Train_Show_2005.jpg -k 1 -r 255 -g 10 -b 10 -d 10 -o ../output/07_Lego_train_layout_at_National_Train_Show_2005_find_1_red.jpg
+1/240
+Blob 1: 2995 pixels
+- Saved result to ../output/07_Lego_train_layout_at_National_Train_Show_2005_find_1_red.png
+
+> java BlobDetection ../input/09_Lego_Color_Bricks.jpg -k 1 -r 150 -g 150 -b 150 -d 2 -o ../output/09_Lego_Color_Bricks_find_1_grey.jpg
+1/749
+Blob 1: 840777 pixels
+- Saved result to ../output/09_Lego_Color_Bricks_find_1_grey.png
+
+> java BlobDetection ../input/15_Amish_Dolls.jpg -k 1 -r 255 -g 200 -b 0 -d 10 -o ../output/15_Amish_Dolls_blob_find_1_pumpkin.png
+1/392
+Blob 1: 59638 pixels
+- Saved result to ../output/15_Amish_Dolls_blob_find_1_pumpkin.png
+
+> java BlobDetection ../input/15_Amish_Dolls.jpg -k 2 -r 255 -g 255 -b 255 -d 8 -o ../output/15_Amish_Dolls_blob_find_2_face.png
+2/847
+Blob 1: 194741 pixels
+Blob 2: 83600 pixels
+- Saved result to ../output/15_Amish_Dolls_blob_find_2_face.png
+
+> java BlobDetection ../input/10_13-06-28-robocup-eindhoven-025.jpg -k 1 -r 255 -g 0 -b 0 -d 5 -o ../output/10_13-06-28-robocup-eindhoven-025_find_1_ball.jpg
+1/184
+Blob 1: 46101 pixels
+- Saved result to ../output/10_13-06-28-robocup-eindhoven-025_find_1_ball.png
+
+> java BlobDetection ../input/10_13-06-28-robocup-eindhoven-025.jpg -k 1 -r 80 -g 165 -b 155 -d 1 -o ../output/10_13-06-28-robocup-eindhoven-025_find_1_robot_jersey.jpg
+1/3747
+Blob 1: 66572 pixels
+- Saved result to ../output/10_13-06-28-robocup-eindhoven-025_find_1_robot_jersey.png
