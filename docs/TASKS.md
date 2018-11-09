@@ -84,7 +84,7 @@ public class DisjointSets<T> {
 
 1. Get Distance for Color (5%)
 
-Implement getDifference() function in Decomposor.java
+Implement getDifference() function in Detector.java
 
 ```java
 public static int getDifference(Color c1, Color c2);
@@ -116,7 +116,7 @@ difference in blue = 0 //black and red have the same blue values
 
 2. Thresholding an Image (10%)
 
-Implement thresh() function in Decomposor.java
+Implement thresh() function in Detector.java
 
 ```java
 public static void thresh(BufferedImage image, Color c, int okDist);
