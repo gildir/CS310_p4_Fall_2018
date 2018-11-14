@@ -15,7 +15,7 @@
 ### You may not 
 1. Make your program part of a package.
 2. Import any additional libraries/packages.
-3. Add any additional classes (private, public, nested, anonymous, or otherwise) _except_ in the Set class (no public ones here).
+3. Add any additional classes (private, public, nested, anonymous, or otherwise) _except_ in the Set class (no public ones here) and in outputResults() (local or anonymous class here only).
 4. Add any additional instance variables or class variables (local variables ok) _except_ in Set (only private ones here).
 
 ## Submission Instructions

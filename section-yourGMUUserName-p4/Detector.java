@@ -53,7 +53,7 @@ public class Detector extends JPanel {
 	//
 	// If there is no above/left neighbor, then the appropriate
 	// part of the pair should be null
-	public static Pair<Integer,Integer> getNeightborSets(BufferedImage image, DisjointSets<Pixel> ds, int pixelId) {
+	public static Pair<Integer,Integer> getNeighborSets(BufferedImage image, DisjointSets<Pixel> ds, int pixelId) {
 		//TODO: Your code here...
 		return null; //remove and replace this line
 	}

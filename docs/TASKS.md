@@ -129,7 +129,7 @@ Given a image, a color, and an okDist, recolor the image into black (the color w
 Given an image, a disjoint set, and a pixel (defined by its id), return a pair which contains (a) the _root_ id of the blob above and (b) the _root_ id of the blob to the left.
 
 ```java
-public static Pair<Integer,Integer> getNeightborSets(BufferedImage image, DisjointSets<Pixel> ds, int pixelId);
+public static Pair<Integer,Integer> getNeighborSets(BufferedImage image, DisjointSets<Pixel> ds, int pixelId);
 ```
 
 ### Task 3: Implement the Detector (45%)
