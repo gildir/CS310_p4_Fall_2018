@@ -94,6 +94,6 @@ Need a schedule?
   - Week 4 (12/03-12/08): _______________________________ (remember, Saturday due date, not Sunday!)
 
 ## Examples, Rules, and Grading
-See [Examples Page](EXAMPLES.md ""). Need more examples? Look in the ![output folder](../output "").
+See [Examples Page](EXAMPLES.md ""). Need more examples? Look in the [output folder](../output "").
 
 As with all projects in CS310, we have some rules (see [Rules Page](RULES.md "")) and a grading rubric (see [Rubric Page](GRADING.md "")). The [ImageMagick](https://www.imagemagick.org/script/index.php) information is on the [Rubric Page](GRADING.md "").
